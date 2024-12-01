@@ -25,3 +25,5 @@ Python for mastery in the workshop:
 - [ ] **Functions**: declaring, calling, parameters vs. arguments, return values
 - [ ] **Lists**: indexed access, slicing, `.append()`, `.insert()`, `len()`
 - [ ] **Pass**: write `pass` in a block to leave it empty without a syntax error
+
+yooo
